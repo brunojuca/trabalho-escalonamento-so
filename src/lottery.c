@@ -1,7 +1,9 @@
 /*
 *  lottery.c - Implementacao do algoritmo Lottery Scheduling e sua API
 *
-*  Autores: SUPER_PROGRAMADORES_C
+*  Autores: Bruno de Oliveira Jucá - 201965013C
+			Rômulo Chrispim de Mello - 201935038
+			
 *  Projeto: Trabalho Pratico I - Sistemas Operacionais
 *  Organizacao: Universidade Federal de Juiz de Fora
 *  Departamento: Dep. Ciencia da Computacao
